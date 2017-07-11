@@ -49,9 +49,10 @@ table {
 /* End of the Reset */
 
 
+/* General Css */
 .col-dk-1 {
     height: 350px;
-    width: 8.3333%;
+    width: 8.33%;
     float: left;
     margin: 0;
     padding: 0;
@@ -93,6 +94,14 @@ table {
     background: #740828;
 }
 
+.clearfix {
+    display: block;
+    float: none;
+    clear: both;
+}
+
+
+/* Media Query - Mobile */
 @media screen and (min-width:180px) and (max-width:768px) {
     .col-sm-9 {
         width: 75%;
@@ -102,7 +111,7 @@ table {
     }
     
     .col-sm-7 {
-        width: 58.3333%;
+        width: 58.33%;
         float: left;
         margin: 0;
         padding: 0;
@@ -116,14 +125,14 @@ table {
     }
     
     .col-sm-5 {
-        width: 41.66666%;
+        width: 41.66%;
         float: left;
         margin: 0;
         padding: 0;
     }
     
     .col-sm-4 {
-        width: 33.33333%;
+        width: 33.33%;
         float: left;
         margin: 0;
         padding: 0;
@@ -137,7 +146,7 @@ table {
     }
     
     .col-sm-2 {
-        width: 16.6666667%;
+        width: 16.66%;
         float: left;
         margin: 0;
         padding: 0;
@@ -164,29 +173,33 @@ table {
     }
 }
 
+
+/* Media Query - Tablet */
 @media screen and (min-width:769px) and (max-width:1024px) {
     .col-med-4 {
-        width: 33.33333%;
+        width: 33.33%;
         float: left;
         margin: 0;
         padding: 0;
     }
     
     .col-med-3 {
-        width: 24.9%;
+        width: 25%;
         float: left;
         margin: 0;
         padding: 0;
     }
     
     .col-med-2 {
-        width: 16.6666%;
+        width: 16.66%;
         float: left;
         margin: 0;
         padding: 0;
     }
 }
 
+
+/* Media Query - Laptop */
 @media screen and (min-width:1025px) and (max-width:1440px) {
     .col-lptp-9 {
         width: 75%;
@@ -196,7 +209,7 @@ table {
     }
     
     .col-lptp-7 {
-        width: 58.3333%;
+        width: 58.33%;
         float: left;
         margin: 0;
         padding: 0;
@@ -210,7 +223,7 @@ table {
     }
     
     .col-lptp-5 {
-        width: 41.66666%;
+        width: 41.66%;
         float: left;
         margin: 0;
         padding: 0;
@@ -231,7 +244,7 @@ table {
     }
     
     .col-lptp-2 {
-        width: 16.6666%;
+        width: 16.66%;
         float: left;
         margin: 0;
         padding: 0;
