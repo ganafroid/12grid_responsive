@@ -1,0 +1,218 @@
+.col-dk-1 {
+    height: 350px;
+    width: 8.3333%;
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+
+.col-dk-12 {
+    height: 200px;
+    width: 100%;
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+
+.yellow {
+    background: yellow;
+}
+
+.green {
+    background: green;
+}
+
+.orange {
+    background: orange;
+}
+
+.black {
+    background: black;
+}
+
+.grey {
+    background: grey;
+}
+
+.turquoise {
+    background: #08746c;
+}
+
+.burgandy {
+    background: #740828;
+}
+
+@media screen and (min-width:180px) and (max-width:768px) {
+    .col-sm-9 {
+        width: 75%;
+        float: left;
+        margin: 0;
+        padding: 0;
+    }
+    
+    .col-sm-7 {
+        width: 58.3333%;
+        float: left;
+        margin: 0;
+        padding: 0;
+    }
+    
+    .col-sm-6 {
+        width: 50%;
+        float: left;
+        margin: 0;
+        padding: 0;
+    }
+    .col-sm-5 {
+        width: 41.66666%;
+        float: left;
+        margin: 0;
+        padding: 0;
+    }
+    .col-sm-4 {
+        width: 33.33333%;
+        float: left;
+        margin: 0;
+        padding: 0;
+    }
+    .col-sm-3 {
+        width: 24.9%;
+        float: left;
+        margin: 0;
+        padding: 0;
+    }
+    .col-sm-2 {
+        width: 16.6666%;
+        float: left;
+        margin: 0;
+        padding: 0;
+    }
+    .yellow {
+    background: #eee406;
+    }
+    .green {
+        background: #abe32e;
+    }
+
+    .orange {
+        background: #fd7f00;
+    }
+
+    .black {
+        background: #4b4b4b;
+    }
+
+    .grey {
+        background: #a5a5a5;
+    }
+}
+
+@media screen and (min-width:769px) and (max-width:1024px) {
+    .col-med-4 {
+        width: 33.33333%;
+        float: left;
+        margin: 0;
+        padding: 0;
+    }
+    .col-med-3 {
+        width: 24.9%;
+        float: left;
+        margin: 0;
+        padding: 0;
+    }
+    .col-med-2 {
+        width: 16.6666%;
+        float: left;
+        margin: 0;
+        padding: 0;
+    }
+}
+
+@media screen and (min-width:1025px) and (max-width:1440px) {
+    .col-lptp-9 {
+        width: 75%;
+        float: left;
+        margin: 0;
+        padding: 0;
+    }
+    
+    .col-lptp-7 {
+        width: 58.3333%;
+        float: left;
+        margin: 0;
+        padding: 0;
+    }
+    
+    .col-lptp-6 {
+        width: 50%;
+        float: left;
+        margin: 0;
+        padding: 0;
+    }
+    .col-lptp-5 {
+        width: 41.66666%;
+        float: left;
+        margin: 0;
+        padding: 0;
+    }
+    .col-lptp-4 {
+        width: 33.33333%;
+        float: left;
+        margin: 0;
+        padding: 0;
+    }
+    .col-lptp-3 {
+        width: 24.9%;
+        float: left;
+        margin: 0;
+        padding: 0;
+    }
+    .col-lptp-2 {
+        width: 16.6666%;
+        float: left;
+        margin: 0;
+        padding: 0;
+    }
+    .yellow {
+    background: #eee406;
+    }
+    
+    .green {
+        background: #abe32e;
+    }
+
+    .orange {
+        background: #fd7f00;
+    }
+
+    .black {
+        background: #4b4b4b;
+    }
+
+    .grey {
+        background: #a5a5a5;
+    }
+
+    
+    .yellow {
+    background: #eee406;
+    }
+
+    
+    .green {
+        background: #abe32e;
+    }
+
+    .orange {
+        background: #fd7f00;
+    }
+
+    .black {
+        background: #4b4b4b;
+    }
+
+    .grey {
+        background: #a5a5a5;
+    }
+    
+}
